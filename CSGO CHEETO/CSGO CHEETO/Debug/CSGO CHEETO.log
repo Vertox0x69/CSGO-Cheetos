@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(112,29): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(62): message : see declaration of 'Vector3'
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(112,54): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(62): message : see declaration of 'Vector3'
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(113,20): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(62): message : see declaration of 'Vector3'
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(131,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(146,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(146,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(161,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(161,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(162,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(162,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(183,20): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(183,12): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(186,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(186,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(54): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\CSGO CHEETO\Source.cpp(203): warning C4715: 'GetModule': not all control paths return a value
+  LINK : C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\Debug\CSGO CHEETO.dll not found or not built by the last incremental link; performing full link
+  CSGO CHEETO.vcxproj -> C:\Users\azion\OneDrive\שולחן העבודה\Cheeto\CSGO CHEETO\Debug\CSGO CHEETO.dll
